@@ -1,0 +1,6 @@
+framework module Pods_star_wars_wiki {
+  umbrella header "Pods-star-wars-wiki-umbrella.h"
+
+  export *
+  module * { export * }
+}
